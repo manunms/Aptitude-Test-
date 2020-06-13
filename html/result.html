@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+   .w3-loster,h1,h6,body{font-family: "Helvetica", cursive, sans-serif;}
+   body {background-color: #e6ff99;}
+   
+</style>
+   <body>
+      <div class="w3-container w3-green">
+        <h1 style="text-transform: uppercase;"><b>WELCOME {{ result.get("Name") }} !</b></h1>
+      </div>
+      <div >
+         <h2 class="w3-text-green w3-wide" style="text-align:center;font-size: 45px;"><b>“It’s so incredible to finally be understood.”</b></h2>
+         <p class="w3-text-green" style="text-align:center;font-size: 25px;">Take our Personality Test and get a “freakishly accurate” description of who you are and why you do things the way you do.</p>
+      </div>
+
+      <form action = "http://localhost:5000/level1" method = "POST">
+           <!-- <h3 class="w3-panel w3-green">Some general instructions</h3>  -->
+
+            <div class="w3-row-padding w3-margin-top" >
+              <div class="w3-third" style="width: 15%">
+                <div class="w3-card-4" style="position: relative;left: 400px;">
+                  <img src="https://static.neris-assets.com/images/test-header-1.svg" >
+                  <div class="w3-container">
+                    <h5 class="w3-center">Fast & Easy</h5>
+                    <p class="w3-opacity w3-center">Take as less than 12 minutes.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="w3-third w3-cell-middle" style="width: 15%">
+                <div class="w3-card-4" style="position: relative;left: 400px;">
+                  <img src="https://static.neris-assets.com/images/test-header-2.svg">
+                  <div class="w3-container">
+                    <h5 class="w3-center">Be Yourself</h5>
+                    <p class="w3-opacity w3-center">Answer honestly, even if you don't like the answer.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="w3-third" style="width: 15%">
+                <div class="w3-card-4" style="position: relative;left: 400px;">
+                  <img src="https://static.neris-assets.com/images/test-header-3.svg">
+                  <div class="w3-container">
+                    <h5 class="w3-center">Complete it all</h5>
+                    <p class="w3-opacity w3-center">Try not to leave any "neutral" answers.</p>
+                  </div>
+                </div>
+              </div>
+
+           </div>
+           <br>
+            <!--<input type = "submit" class="w3-button w3-black w3-round-xxlarge"/>-->
+            <button type = "submit" class="w3-button w3-green w3-round-xxlarge" value = "Start test!" style="font-size: 25 px">TAKE THE TEST ->
+            </button>
+      </form>
+   </body>
+</html>
