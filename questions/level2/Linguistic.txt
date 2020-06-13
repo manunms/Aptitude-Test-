@@ -1,0 +1,52 @@
+Find TWO words from the following group of five words that are the CLOSEST in meaning : shout, whisper, chat, explain, exclaim
+explain, exclaim
+shout, exclaim
+whisper, chat
+whisper, explain
+Find TWO words from the following group of five words that are the CLOSEST in meaning : far, near, away, distant, around
+near, away
+far, distant
+distant, around
+away, distant
+Find TWO words from the following group of five words that are the CLOSEST in meaning : discuss, explain, lecture, converse, talk
+explain, lecture
+lecture, discuss
+discuss, explain
+lecture, converse
+Find TWO words from the following group of five words that are the CLOSEST in meaning : scrub, brush, clean, wash, tidy
+clean, wash
+scrub, brush
+clean, tidy
+brush, wash
+Pick the three-letter creature that would most sensibly complete the word in capitals in the sentence : We never realised that they had ST so much money on the building.
+COB
+PEN
+HOG
+OWL
+Pick the three-letter creature that would most sensibly complete the word in capitals in the sentence : The ground is now so sodden that everybody is PING the clouds will go away and the rain will stop.
+HEN
+COD
+RAY
+PIG
+Pick the three-letter creature that would most sensibly complete the word in capitals in the sentence : He was injured just after half-time, so the manager sent on a SUBSUTE for the rest of the match.
+OWL
+TIT
+BEE
+COD
+Which two words together can make a new, compound word? : (why whose what) (ever even evil)
+what ever
+why ever
+whose even
+why evil
+Which two words together can make a new, compound word? : (book band brick) (mink main mark)
+book main
+book mark
+band mink
+brick mark
+Which two words together can make a new, compound word? : (back black base) (spine side state)
+black side
+base state
+back spine
+back side
+
+

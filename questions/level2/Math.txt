@@ -1,0 +1,52 @@
+2, 7, 14, 23, ?, 47 
+31 	
+28		
+34		
+38
+15, 31, 63, 127, 255, ? 
+513	
+511	
+523
+517
+A two digit number is three times the sum of its digits. If 45 is added to it, the digits are reversed. The number is 
+23
+32
+27
+72
+Three years ago the average age of A and B was 18 years. If C joins them today, the average becomes 22 years. How old is C now? 
+27
+24
+30
+28
+A square garden has fourteen posts along each side at equal interval. Find how many posts are there in all four sides. 
+56
+44
+52
+60
+Find the group of letters that will continue the series in the most sensible way : CA EE GH IL KO
+RM
+MA
+MS
+MR
+Find the group of letters that will continue the series in the most sensible way : WE UG SI QK OM
+MO
+OM
+MN
+OP
+Find the group of letters that will continue the series in the most sensible way : DN FL HJ JH LF
+NC
+NB
+ND
+DN
+What is the sum of two consecutive even numbers, the difference of whose squares is 84? 
+32
+34
+38
+42
+A square garden has fourteen posts along each side at equal interval. Find how many posts are there in all four sides. 
+56
+44
+52
+60
+
+
