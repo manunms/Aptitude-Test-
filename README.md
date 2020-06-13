@@ -1,1 +1,2 @@
 # Aptitude-Test-
+There are a lot of different careers and paths that a student may take. Our solution is a WebApp that determines the aptitude of a student and finds out about their inclinations towards a certain field. After entering some basic information, and answering a set of preliminary questions, the next category of questions is asked based on their answers using predictive analysis. This process continues, and finally a list of suitable occupations based on the students’ inclinations is presented. 
